@@ -1,4 +1,4 @@
-Pipeline{
+pipeline{
 //to ran on any agent
   agent any
   stages{
